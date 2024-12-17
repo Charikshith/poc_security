@@ -1,0 +1,10 @@
+{
+    "Network type": "Rest API Internal",
+    "Accessibility": "Physical",
+    "Protocols": "HTTPS",
+    "Peers": "Internal Applications",
+    "Privileges": "High(Root)",
+    "Confidential Impact": "Low",
+    "Integrity Impact": "Low",
+    "Availability Impact": "Low",
+}
