@@ -1,6 +1,6 @@
 {
     'Network type': 'Rest API Internal',
-    'Accessibility': 'Physical",
+    'Accessibility': 'Physical',
     'Protocols': 'HTTPS',
     'Peers': 'Internal Applications',
     'Privileges': 'High',
