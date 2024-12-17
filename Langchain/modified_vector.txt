@@ -1,1 +1,10 @@
-{'Network type': 'Rest API Internal','Accessibility': 'Physical','Protocols': 'HTTPS','Peers': 'Internal Applications','Privileges': 'High','Confidential Impact': 'Low','Integrity Impact': 'Low','Availability Impact': 'Low'}
+{
+  "Network type": "Rest API Internal",
+  "Accessibility": "Physical",
+  "Protocols": "HTTPS",
+  "Peers": "Internal Applications",
+  "Privileges": "High",
+  "Confidential Impact": "Low",
+  "Integrity Impact": "Low",
+  "Availability Impact": "Low"
+}
