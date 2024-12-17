@@ -6,5 +6,5 @@
     'Privileges': 'High',
     'Confidential Impact': 'Low',
     'Integrity Impact': 'Low',
-    'Availability Impact': 'Low',
+    'Availability Impact': 'Low'
 }
